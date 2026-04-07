@@ -1,0 +1,13 @@
+,value
+n_offspring_tested,20.0
+n_assigned,4.0
+assignment_rate_pct,20.0
+pct_sired_by_dominant,100.0
+pct_sired_by_subordinate,0.0
+pct_unresolved,80.0
+B_index_population,0.041667
+B_expected_equal_sharing,0.222222
+skew_ratio,0.188
+permutation_p,0.725
+dominance_paternity_MW_p,0.0526
+accuracy_vs_truth,0.2857

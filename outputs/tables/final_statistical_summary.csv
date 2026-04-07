@@ -1,0 +1,21 @@
+Statistic,Value
+N individuals genotyped,63.0
+N microsatellite loci (QC passed),15.0
+Mean PIC,0.7896
+Mean Ho,0.7014
+Mean He,0.8124
+Mean FIS,0.1364
+N offspring assigned paternity,4.0
+Paternity assignment rate (%),20.0
+% offspring: dominant sire,20.0
+% offspring: subordinate sire,0.0
+% offspring: unresolved,80.0
+Nonacs B-index (population),0.041667
+E(B) under equal sharing,0.222222
+Skew permutation p-value,0.7425
+Mann-Whitney p (dominance-paternity),0.0526
+Mean within-group r_QG,0.0203
+Mean between-group r_QG,-0.0153
+Kinship Mann-Whitney p (within > between),1e-06
+N social groups,6.0
+N candidate fathers tested,12.0

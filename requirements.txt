@@ -1,0 +1,29 @@
+# Core scientific stack
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Network graphs
+networkx>=3.1.0
+
+# Statistics
+statsmodels>=0.14.0
+scikit-learn>=1.3.0
+pingouin>=0.5.3
+
+# Bioinformatics / genetics
+scikit-allel>=1.3.6
+
+# Notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=8.0.0
+
+# Utilities
+tqdm>=4.65.0
+openpyxl>=3.1.0

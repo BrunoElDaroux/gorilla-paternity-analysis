@@ -1,0 +1,11 @@
+Metric,Value
+Total loci genotyped,15
+Loci passing QC,15
+Mean PIC (passing loci),0.7896
+Combined exclusion probability,1.000000
+Mean locus missing rate (%),5.40
+Mean Ho (passing loci),0.7014
+Mean He (passing loci),0.8124
+Total individuals sampled,63
+Individuals passing QC,63
+Mean individual missing rate (%),5.40
