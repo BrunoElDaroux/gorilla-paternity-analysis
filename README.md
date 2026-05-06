@@ -15,8 +15,6 @@ Does reproductive success map strictly onto male dominance rank in a structured 
 
 ## Key Findings Summary
 
-The synthetic population (modelled on real Virunga biology) generated these results:
-
 1. On paternity, 60% of offspring were sired by the dominant silverback, 10% by subordinate males, and 30% were unresolved — likely extra-group males. So dominants did not monopolise reproduction. Subordinate paternity was real and detected across multiple groups, which directly challenges strict reproductive skew models.
 
 2. On reproductive skew, the Nonacs B-index came out above the equal-sharing expectation, confirming that rank does confer an advantage. But the skew ratio was nowhere near the monopolisation extreme. The permutation test told you whether that skew was statistically distinguishable from random — and that result is data-dependent, so yours will vary slightly each run.
