@@ -35,7 +35,7 @@ Mountain gorillas live in structured social groups with clear male dominance hie
 - 6 social groups across 3 Virunga sub-massifs (Karisimbi, Bisoke, Sabyinyo/Muhabura)
 - 15 microsatellite loci (panel modelled on Bradley et al. 2004; Nsubuga et al. 2010)
 - Non-invasive DNA error structure: allelic dropout ~8%, false alleles ~2%, locus failure ~7%
-- Ground-truth paternity split: dominant ≈62%, subordinate ≈28%, extra-group ≈10%
+- Ground-truth paternity split: dominant ≈60%, subordinate ≈10%, extra-group ≈30%
 
 ---
 
