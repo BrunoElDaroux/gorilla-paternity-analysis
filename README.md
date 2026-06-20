@@ -59,37 +59,6 @@ Gorilla microsatellite data:
 
 ---
 
-## Setup
-
-### Option A — Conda (recommended)
-```bash
-conda env create -f environment.yml
-conda activate gorilla-paternity
-```
-
-### Option B — pip
-```bash
-pip install -r requirements.txt
-```
-
-### Generate Data
-```bash
-cd scripts
-python data_generator.py
-```
-This writes three CSVs to `data/raw/`.
-
-### Run Notebooks (VS Code)
-Open each notebook in order in VS Code with the Jupyter extension. Select the `gorilla-paternity` kernel.
-
-1. `01_data_import_and_qc.ipynb`
-2. `02_population_genetics.ipynb`
-3. `03_parentage_analysis.ipynb`
-4. `04_kinship_analysis.ipynb`
-5. `05_results_and_conservation.ipynb`
-
----
-
 ## Methods Summary
 
 ### Parentage Analysis (CERVUS-style LOD scoring)
