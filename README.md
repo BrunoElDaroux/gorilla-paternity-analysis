@@ -10,7 +10,7 @@
 
 ## Research Question
 
-Does reproductive success map strictly onto male dominance rank in a structured primate society? Specifically — do dominant silverbacks monopolise all reproduction, or do subordinate males contribute meaningfully to paternity in wild mountain gorilla groups?
+Does reproductive success map strictly onto male dominance rank in a structured primate society? Specifically, do dominant silverbacks monopolise all reproduction, or do subordinate males contribute meaningfully to paternity in wild mountain gorilla groups?
 
 ---
 
