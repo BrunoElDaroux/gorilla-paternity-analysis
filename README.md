@@ -16,15 +16,15 @@ Does reproductive success map strictly onto male dominance rank in a structured 
 
 ## Key Findings Summary
 
-1. On paternity, 60% of offspring were sired by the dominant silverback, 10% by subordinate males, and 30% were unresolved — likely extra-group males. So dominants did not monopolise reproduction. Subordinate paternity was real and detected across multiple groups, which directly challenges strict reproductive skew models.
+1. On paternity, 60% of offspring were sired by the dominant silverback, 10% by subordinate males, and 30% were unresolved; likely extra-group males. So dominants did not monopolise reproduction. Subordinate paternity was real and detected across multiple groups, which directly challenges strict reproductive skew models.
 
-2. On reproductive skew, the Nonacs B-index came out above the equal-sharing expectation, confirming that rank does confer an advantage. But the skew ratio was nowhere near the monopolisation extreme. The permutation test told you whether that skew was statistically distinguishable from random — and that result is data-dependent, so yours will vary slightly each run.
+2. On reproductive skew, the Nonacs B-index came out above the equal-sharing expectation, confirming that rank does confer an advantage. But the skew ratio was nowhere near the monopolisation extreme. The permutation test told you whether that skew was statistically distinguishable from random; and that result is data-dependent, so yours will vary slightly each run.
 
 3. On kinship, within-group relatedness was significantly higher than between-group relatedness (Mann-Whitney p < 0.05), which is exactly what you'd expect from philopatric females and resident males. The between-group signal was low but non-zero, consistent with occasional male dispersal acting as natural gene flow across the Virunga sub-massifs.
 
-4. On genetic diversity, mean expected heterozygosity across 15 loci was around 0.65–0.70 with mean PIC above 0.5, meaning the locus panel was highly informative. No group showed catastrophic diversity collapse, but the conservation notebook flags groups falling below He = 0.6 as warranting monitoring.
+4. On genetic diversity, mean expected heterozygosity across 15 loci was around 0.65–0.70 with mean PIC above 0.5, meaning the locus panel was highly informative. No group showed catastrophic diversity collapse, but the conservation notebook flags groups falling below   He = 0.6 as warranting monitoring.
 
-5. The headline conclusion: dominant silverbacks have a real reproductive advantage, but the system is not winner-takes-all. Subordinate paternity is a persistent feature, not noise — which has direct implications for group management, because removing subordinates based on rank alone would cost you genetic diversity you didn't know they were contributing.
+5. The headline conclusion: dominant silverbacks have a real reproductive advantage, but the system is not winner-takes-all. Subordinate paternity is a persistent feature, not noise; which has direct implications for group management, because removing subordinates based on rank alone would cost you genetic diversity you didn't know they were contributing.
 
 ## Background
 
