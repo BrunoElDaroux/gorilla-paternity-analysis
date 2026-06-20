@@ -39,8 +39,6 @@ Mountain gorillas live in structured social groups with clear male dominance hie
 ---
 
 > **Tools:** Python · R (via Jupyter) · CERVUS-style LOD scoring · Microsatellite Genotyping  
-> ⚠️ **Population:** Simulated Virunga Massif mountain gorilla (*Gorilla beringei beringei*) cohort  
-
 
 ## Dataset
 
