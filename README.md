@@ -103,8 +103,8 @@ gorilla-paternity-analysis/
 ├── requirements.txt
 ├── environment.yml
 ├── data/
-│   ├── raw/                    # CSVs (generated or real)
-│   └── processed/              # QC-filtered, intermediate outputs
+│   ├── raw/                    
+│   └── processed/              
 ├── notebooks/
 │   ├── 01_data_import_and_qc.ipynb
 │   ├── 02_population_genetics.ipynb
@@ -112,7 +112,6 @@ gorilla-paternity-analysis/
 │   ├── 04_kinship_analysis.ipynb
 │   └── 05_results_and_conservation.ipynb
 ├── scripts/
-│   ├── data_generator.py
 │   ├── parentage_functions.py
 │   ├── kinship_functions.py
 │   └── utils.py
@@ -123,4 +122,4 @@ gorilla-paternity-analysis/
 
 ## Author
 
-*Bioinformatician with research experience at the Dian Fossey Gorilla Fund, building end-to-end computational pipelines across four domains: spatial movement ecology (GeoPandas, KDE, permutation testing), population genetics (CERVUS microsatellite LOD scoring, Queller-Goodnight kinship estimation), machine learning survival analysis (Random Forest, temporal cross-validation), and conservation epidemiology (logistic regression, SciPy hypothesis testing, temporal linkage). Technical stack: Python · R · SQL · scikit-learn · SciPy · GeoPandas · Git. All work is grounded in longitudinal biological datasets with direct conservation policy implications across the Virunga Massif — Rwanda, Uganda, and DRC.*
+*Data Technician with research experience at the Dian Fossey Gorilla Fund, building end-to-end computational pipelines across four domains: spatial movement ecology (GeoPandas, KDE, permutation testing), population genetics (CERVUS microsatellite LOD scoring, Queller-Goodnight kinship estimation), machine learning survival analysis (Random Forest, temporal cross-validation), and conservation epidemiology (logistic regression, SciPy hypothesis testing, temporal linkage). Technical stack: Python · R · SQL · scikit-learn · SciPy · GeoPandas · Git. All work is grounded in longitudinal biological datasets with direct conservation policy implications across the Virunga Massif — Rwanda, Uganda, and DRC.*
