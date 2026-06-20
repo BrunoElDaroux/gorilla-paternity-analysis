@@ -43,10 +43,10 @@ Mountain gorillas live in structured social groups with clear male dominance hie
 ## Alternative Dataset
 
 Gorilla microsatellite data:
-- **Dryad:** https://datadryad.org — search "Gorilla beringei microsatellite"
+- **Dryad:** https://datadryad.org , search "Gorilla beringei microsatellite"
 - **Nsubuga et al. 2010** (Bwindi gorillas): Mol Ecol Resour, 10(2):397–399
 - **Bradley et al. 2004** (Virunga gorillas): Am J Primatol, 62(1):1–14
-- **NCBI PopSet:** https://www.ncbi.nlm.nih.gov/popset — search gorilla STR
+- **NCBI PopSet:** https://www.ncbi.nlm.nih.gov/popset , "search gorilla STR"
 
 
 ### Data Schema
