@@ -13,6 +13,17 @@
 Does reproductive success map strictly onto male dominance rank in a structured primate society? Specifically, do dominant silverbacks monopolise all reproduction, or do subordinate males contribute meaningfully to paternity in wild mountain gorilla groups?
 
 ---
+## ⚠️ Data Transparency
+
+The datasets used in this project is **synthetic** and was created strictly for **educational, analytical, and portfolio purposes**. It does not represent real gorilla genetic samples, genotypes, pedigrees, or verified paternity records.
+
+The genetic structure, biological context, and assumptions were informed by published research on mountain gorilla population genetics and social behavior. However, **all paternity assignments, kinship estimates, reproductive-skew measurements, and other findings presented in this repository are generated from synthetic data and should not be interpreted as real-world findings**.
+
+This project demonstrates how genetic data could be analyzed to investigate paternity, kinship, and reproductive patterns in mountain gorillas. **If a comparable study were conducted using appropriate real-world genetic data from an authorized institution, the analysis could follow a similar approach and produce results structured like those demonstrated here.**
+
+Any future research involving real institutional or field genetic data would require the appropriate **data-access permission, research authorization, and applicable ethical or regulatory approvals**.
+
+---
 
 ## Key Findings Summary
 
